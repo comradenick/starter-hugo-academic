@@ -19,13 +19,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: njgrieshop@mail.missouri.edu
@@ -41,6 +41,7 @@ content:
     latitude: '38.9462052'
     longitude: '-92.329116'
   office_hours:
+    - 'Middlebush 37'
     - 'Tuesday 08:30 to 10:00'
     - 'Wednesday 13:00 to 14:30'
 design:
