@@ -3,6 +3,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+
+# Should this be on site
+active: false
+
 # This file represents a page section.
 headless: false
 
