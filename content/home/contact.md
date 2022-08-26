@@ -25,22 +25,21 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: njgrieshop@mail.missouri.edu
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 146 Middlebush Hall
+    city: Columbia
+    region: MO
+    postcode: '65211'
     country: United States
     country_code: US
+    Office: '37'
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '38.9462052'
+    longitude: '-92.329116'
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Tuesday 08:30 to 10:00'
+    - 'Wednesday 13:00 to 14:30'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
