@@ -21,8 +21,8 @@ draft: false
 featured: false
 tags: []
 image:
-  filename: jsmposter_large.png
-  focal_point: Top
+  filename: featured.png
+  focal_point: ""
   preview_only: false
   alt_text: "Poster presented - showing results of a CA hierarchical Bayesian
     model predicting fire spread "
