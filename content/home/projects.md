@@ -4,7 +4,7 @@
 widget: portfolio
 
 # Should this be on site
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
